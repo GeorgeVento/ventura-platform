@@ -17,8 +17,9 @@ A lightweight full-stack platform that helps small businesses manage customers, 
 ## 🛠️ Tech Stack
 
 - **Backend:** Node.js, Express
-- **Frontend:** React
+- **Frontend:** React, HTML, CSS
 - **Database:** PostgreSQL
+- **DevOps:** Docker
 - **Version Control:** Git & GitHub
 
 ---
