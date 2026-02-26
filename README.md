@@ -41,6 +41,3 @@ ventura-platform/
 ---
 
 *Built with 💙 — one day at a time.*
----
-
-© 2025 George-Leonidas Ventouratos. All rights reserved.
