@@ -8,10 +8,10 @@ A lightweight full-stack platform that helps small businesses manage customers, 
 
 | Μέρα | Ημερομηνία | Θέμα | Status |
 |------|------------|------|--------|
-| 1 | 25/02/2025 | Repo & Εγκαταστάσεις | ✅ Done |
-| 2 | 26/02/2025 | Folder Structure & .gitignore | ✅ Done |
-| 3 | 27/02/2025 | - | 🔒 Upcoming |
-
+| 1 | 25/02/2026 | Repo & Εγκαταστάσεις | ✅ Done |
+| 2 | 26/02/2026 | Folder Structure & .gitignore | ✅ Done |
+| 3 | 26/02/2026 | Docker & PostgreSQL Setup | ✅ Done |
+| 4 | - | - | 🔒 Upcoming |
 ---
 
 ## 🛠️ Tech Stack
